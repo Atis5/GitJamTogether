@@ -1,4 +1,5 @@
 {
+
   "FolderOrderSettings":[
     {"name":"Assets","order":1,"path":"folders/Sprites/Assets.yy",},
     {"name":"Backgrounds","order":2,"path":"folders/Sprites/Backgrounds.yy",},
@@ -33,4 +34,8 @@
     {"name":"spr_taxi_car","order":3,"path":"sprites/spr_taxi_car/spr_taxi_car.yy",},
     {"name":"spr_trash","order":4,"path":"sprites/spr_trash/spr_trash.yy",},
   ],
+
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[],
+
 }
