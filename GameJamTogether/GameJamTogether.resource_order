@@ -23,7 +23,6 @@
     {"name":"game_over","order":4,"path":"fonts/game_over/game_over.yy",},
     {"name":"obj_controller_background","order":3,"path":"objects/obj_controller_background/obj_controller_background.yy",},
     {"name":"obj_enemy","order":2,"path":"objects/obj_enemy/obj_enemy.yy",},
-    {"name":"obj_player_fardau","order":2,"path":"objects/obj_player_fardau/obj_player_fardau.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"GameOver","order":2,"path":"rooms/GameOver/GameOver.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
