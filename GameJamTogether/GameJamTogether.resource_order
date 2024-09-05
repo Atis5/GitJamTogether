@@ -37,5 +37,7 @@
     {"name":"spr_middle_background","order":2,"path":"sprites/spr_middle_background/spr_middle_background.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_road_background","order":5,"path":"sprites/spr_road_background/spr_road_background.yy",},
+    {"name":"Spr_taxi_car","order":7,"path":"sprites/Spr_taxi_car/Spr_taxi_car.yy",},
+    {"name":"Spr_Trahs","order":8,"path":"sprites/Spr_Trahs/Spr_Trahs.yy",},
   ],
 }

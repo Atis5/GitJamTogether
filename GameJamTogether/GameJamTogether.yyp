@@ -60,6 +60,8 @@
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_road_background","path":"sprites/spr_road_background/spr_road_background.yy",},},
     {"id":{"name":"spr_solid","path":"sprites/spr_solid/spr_solid.yy",},},
+    {"id":{"name":"Spr_taxi_car","path":"sprites/Spr_taxi_car/Spr_taxi_car.yy",},},
+    {"id":{"name":"Spr_Trahs","path":"sprites/Spr_Trahs/Spr_Trahs.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
