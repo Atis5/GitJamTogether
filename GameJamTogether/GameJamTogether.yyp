@@ -36,11 +36,12 @@
   },
   "name":"GameJamTogether",
   "resources":[
+    {"id":{"name":"game_over","path":"fonts/game_over/game_over.yy",},},
     {"id":{"name":"obj_controller_background","path":"objects/obj_controller_background/obj_controller_background.yy",},},
-    {"id":{"name":"obj_player_fardau","path":"objects/obj_player_fardau/obj_player_fardau.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
+    {"id":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"scr_fall_sides","path":"scripts/scr_fall_sides/scr_fall_sides.yy",},},
@@ -62,6 +63,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

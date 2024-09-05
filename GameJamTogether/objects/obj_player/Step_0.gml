@@ -1,4 +1,3 @@
-
 //   \/ INPUTS \/
 
 jump = -keyboard_check_pressed(ord("W"));
@@ -49,3 +48,11 @@ if(place_meeting(x+speed_x, y, obj_solid))
 
 x += speed_x;
 y += speed_y
+
+
+//   \/ GAME OVER \/
+
+if(place_meeting(x, y, obj_enemy))
+{
+	room_goto(GameOver);
+}
