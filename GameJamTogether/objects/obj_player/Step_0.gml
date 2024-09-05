@@ -14,7 +14,7 @@ speed_x = (right+left) * speed_;
 // Apply gravity whem player is not jumping.
 if(speed_y < jump_speed)
 {
-	speed_y += gravity_;
+	speed_y += GRAVITY;
 }
 
 // Allow jumping if there is an object underneath the player.

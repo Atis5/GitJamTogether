@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_gravity",
+  "%Name":"scr_macros",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_gravity",
+  "name":"scr_macros",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
