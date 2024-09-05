@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_taxi_car",
+  "%Name":"spr_cone",
   "bboxMode":0,
-  "bbox_bottom":123,
+  "bbox_bottom":95,
   "bbox_left":0,
-  "bbox_right":383,
+  "bbox_right":71,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"28c2c4f1-71a4-4556-a43f-77bfb7689f19","name":"28c2c4f1-71a4-4556-a43f-77bfb7689f19","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"27896c5b-6d11-487a-9b8b-5ea6c8a8859a","name":"27896c5b-6d11-487a-9b8b-5ea6c8a8859a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":124,
+  "height":96,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f6e1226c-8057-41b8-b402-ea86daf4cc2a","blendMode":0,"displayName":"default","isLocked":false,"name":"f6e1226c-8057-41b8-b402-ea86daf4cc2a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"c30d0f58-292e-4d0e-bce9-7f4363848d6f","blendMode":0,"displayName":"default","isLocked":false,"name":"c30d0f58-292e-4d0e-bce9-7f4363848d6f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_taxi_car",
+  "name":"spr_cone",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_taxi_car",
+    "%Name":"spr_cone",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_taxi_car",
+    "name":"spr_cone",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"28c2c4f1-71a4-4556-a43f-77bfb7689f19","path":"sprites/spr_taxi_car/spr_taxi_car.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"71bfb673-ad4c-4e25-bbd3-a791e947d883","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"27896c5b-6d11-487a-9b8b-5ea6c8a8859a","path":"sprites/spr_cone/spr_cone.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8c6fc630-3709-48df-92dd-94575cb7a1a2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":384,
+  "width":72,
 }
