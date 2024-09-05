@@ -47,6 +47,7 @@
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
     {"id":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2_1","path":"rooms/Room2_1/Room2_1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"scr_fall_sides","path":"scripts/scr_fall_sides/scr_fall_sides.yy",},},
     {"id":{"name":"scr_input_calculator","path":"scripts/scr_input_calculator/scr_input_calculator.yy",},},
@@ -81,6 +82,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Room2_1","path":"rooms/Room2_1/Room2_1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},

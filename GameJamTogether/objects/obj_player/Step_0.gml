@@ -8,6 +8,7 @@ left = -keyboard_check(ord("A"));
 
 //   \/ MOVEMENT \/
 
+// Calculate movement
 speed_x = (right+left) * speed_;
 
 // Apply gravity whem player is not jumping.
@@ -27,9 +28,9 @@ if (!place_free(x, y+1))
 //   \/ COLLISIONS \/
 
 // Vertical
-if(place_meeting(x, y+speed_y, obj_solid))
+if(place_meeting(x, y+speed_y, obj_solid)) || (place_meeting(x, y+speed_y, obj_half_solid))
 {
-	while(!place_meeting(x, y+sign(speed_y), obj_solid))
+	while(!place_meeting(x, y+sign(speed_y), obj_solid)) && (!place_meeting(x, y+sign(speed_y), obj_half_solid))
 	{
 		y += sign(speed_y)
 	}
@@ -47,7 +48,8 @@ if(place_meeting(x+speed_x, y, obj_solid))
 }
 
 x += speed_x;
-y += speed_y
+y += speed_y;
+
 
 
 //   \/ GAME OVER \/
