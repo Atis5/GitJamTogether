@@ -56,6 +56,8 @@
     {"id":{"name":"spr_color_background","path":"sprites/spr_color_background/spr_color_background.yy",},},
     {"id":{"name":"spr_controller_background","path":"sprites/spr_controller_background/spr_controller_background.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
+    {"id":{"name":"spr_girl_idle","path":"sprites/spr_girl_idle/spr_girl_idle.yy",},},
+    {"id":{"name":"spr_girl_running","path":"sprites/spr_girl_running/spr_girl_running.yy",},},
     {"id":{"name":"spr_middle_background","path":"sprites/spr_middle_background/spr_middle_background.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_road_background","path":"sprites/spr_road_background/spr_road_background.yy",},},
