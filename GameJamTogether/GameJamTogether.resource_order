@@ -1,8 +1,8 @@
 {
   "FolderOrderSettings":[
     {"name":"Assets","order":1,"path":"folders/Sprites/Assets.yy",},
-    {"name":"Tiles","order":7,"path":"folders/Sprites/Tiles.yy",},
     {"name":"Backgrounds","order":2,"path":"folders/Sprites/Backgrounds.yy",},
+    {"name":"Tiles","order":7,"path":"folders/Sprites/Tiles.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"game_over","order":4,"path":"fonts/game_over/game_over.yy",},
