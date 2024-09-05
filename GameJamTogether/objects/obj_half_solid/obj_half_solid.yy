@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_solid",
+  "%Name":"obj_half_solid",
   "eventList":[],
   "managed":true,
-  "name":"obj_solid",
+  "name":"obj_half_solid",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_solid",
-    "path":"sprites/spr_solid/spr_solid.yy",
+    "name":"spr_half_solid",
+    "path":"sprites/spr_half_solid/spr_half_solid.yy",
   },
   "spriteMaskId":null,
   "visible":false,
