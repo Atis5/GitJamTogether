@@ -1,1 +1,1 @@
-shouldFollow = true;
+should_follow = true;

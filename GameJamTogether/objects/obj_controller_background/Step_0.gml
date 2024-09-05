@@ -9,3 +9,20 @@ var distant = layer_get_id("distant_background");
 layer_x(closest, lerp(0, camera_get_view_x(view_camera[0]), 0.5  ) );
 layer_x(middle, lerp(0, camera_get_view_x(view_camera[0]), 0.7  ) );
 layer_x(distant, lerp(0, camera_get_view_x(view_camera[0]), 0.85  ) );
+
+
+
+/// Switching to different rooms
+var switch_room = keyboard_check_pressed(vk_enter);
+
+if(switch_room)
+{
+	if(room == Start)
+	{
+		room_goto(Room2);
+	}
+	else
+	{
+		room_goto(Start);
+	}
+}

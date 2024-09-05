@@ -1,4 +1,4 @@
-if (shouldFollow)
+if (should_follow)
 {
 	x = global.player_position[player_position_index][0];
 	y = global.player_position[player_position_index][1];

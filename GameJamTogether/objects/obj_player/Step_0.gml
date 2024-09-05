@@ -28,9 +28,9 @@ if (!place_free(x, y+1))
 //   \/ COLLISIONS \/
 
 // Vertical
-if(place_meeting(x, y+speed_y, obj_solid)) || (place_meeting(x, y+speed_y, obj_half_solid))
+if(place_meeting(x, y+speed_y, obj_solid))
 {
-	while(!place_meeting(x, y+sign(speed_y), obj_solid)) && (!place_meeting(x, y+sign(speed_y), obj_half_solid))
+	while(!place_meeting(x, y+sign(speed_y), obj_solid))
 	{
 		y += sign(speed_y)
 	}
