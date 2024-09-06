@@ -30,5 +30,7 @@
     {"name":"spr_player_run","order":2,"path":"sprites/spr_player_run/spr_player_run.yy",},
     {"name":"spr_road_background","order":1,"path":"sprites/spr_road_background/spr_road_background.yy",},
     {"name":"spr_start_background","order":6,"path":"sprites/spr_start_background/spr_start_background.yy",},
+    {"name":"Sprite31","order":5,"path":"sprites/Sprite31/Sprite31.yy",},
+    {"name":"Sprite32","order":6,"path":"sprites/Sprite32/Sprite32.yy",},
   ],
 }
