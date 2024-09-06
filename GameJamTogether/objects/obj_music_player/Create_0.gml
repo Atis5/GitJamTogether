@@ -1,6 +1,6 @@
 if(room = Room2)
 {
-	audio_play_sound(loop_1, 10, true);
+	audio_play_sound(loop_final, 10, true);
 }
 else if (room = GameOver)
 {

@@ -50,7 +50,7 @@ if(place_meeting(x+speed_x, y, obj_solid))
 x += speed_x;
 y += speed_y;
 
-
+ image_xscale = sign(speed_x+0.1)*2;
 
 //   \/ GAME OVER \/
 
