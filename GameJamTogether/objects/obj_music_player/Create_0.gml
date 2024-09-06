@@ -6,3 +6,7 @@ else if (room = GameOver)
 {
 	audio_play_sound(game_over_music, 10, true);
 }
+else if (room = Start)
+{
+	audio_play_sound(main_menu_music, 10, true);
+}
