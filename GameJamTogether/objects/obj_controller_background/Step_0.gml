@@ -12,12 +12,22 @@ layer_x(distant, lerp(0, camera_get_view_x(view_camera[0]), 0.85  ) );
 
 
 
-/// Switching to different rooms
+/// Switching rooms and quitting the game
 var switch_room = keyboard_check_pressed(vk_enter);
+var quit_game = keyboard_check_pressed(vk_escape);
+
+if(quit_game)
+{
+	game_end();
+}
 
 if(switch_room)
 {
 	if(room == Start)
+	{
+		room_goto(Intro);
+	}
+	else if(room == Intro)
 	{
 		room_goto(Room2);
 	}

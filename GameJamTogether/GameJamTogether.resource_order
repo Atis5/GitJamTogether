@@ -1,6 +1,8 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_intro_loader","order":1,"path":"objects/obj_intro_loader/obj_intro_loader.yy",},
+    {"name":"Intro","order":2,"path":"rooms/Intro/Intro.yy",},
     {"name":"Start","order":1,"path":"rooms/Start/Start.yy",},
     {"name":"obj_distant_background","order":4,"path":"sprites/obj_distant_background/obj_distant_background.yy",},
     {"name":"spr_closest_background","order":2,"path":"sprites/spr_closest_background/spr_closest_background.yy",},
