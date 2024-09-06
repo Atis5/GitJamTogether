@@ -94,3 +94,9 @@ if(place_meeting(x, y, obj_enemy))
 	audio_stop_all();
 	room_goto(GameOver);
 }
+
+if(place_meeting(x, y, obj_escape))
+{
+	audio_stop_all();
+	room_goto(Ending);
+}
