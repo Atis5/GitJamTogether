@@ -29,12 +29,12 @@
     {"name":"spr_dumpster","order":3,"path":"sprites/spr_dumpster/spr_dumpster.yy",},
     {"name":"spr_gameover_background","order":7,"path":"sprites/spr_gameover_background/spr_gameover_background.yy",},
     {"name":"spr_girl_climb","order":5,"path":"sprites/spr_girl_climb/spr_girl_climb.yy",},
+    {"name":"spr_kitty","order":5,"path":"sprites/spr_kitty/spr_kitty.yy",},
     {"name":"spr_ladder","order":4,"path":"sprites/spr_ladder/spr_ladder.yy",},
     {"name":"spr_player_climb","order":1,"path":"sprites/spr_player_climb/spr_player_climb.yy",},
     {"name":"spr_player_idle","order":6,"path":"sprites/spr_player_idle/spr_player_idle.yy",},
     {"name":"spr_player_run","order":2,"path":"sprites/spr_player_run/spr_player_run.yy",},
     {"name":"spr_road_background","order":1,"path":"sprites/spr_road_background/spr_road_background.yy",},
     {"name":"spr_start_background","order":6,"path":"sprites/spr_start_background/spr_start_background.yy",},
-    {"name":"Sprite34","order":5,"path":"sprites/Sprite34/Sprite34.yy",},
   ],
 }
