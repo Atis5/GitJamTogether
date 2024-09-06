@@ -23,6 +23,7 @@ if(quit_game)
 
 if(switch_room)
 {
+	audio_stop_all();
 	if(room == Start)
 	{
 		room_goto(Intro);
