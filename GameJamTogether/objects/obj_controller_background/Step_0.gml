@@ -29,7 +29,7 @@ if(switch_room)
 	}
 	else if(room == Intro)
 	{
-		room_goto(Room2);
+		video_close();
 	}
 	else
 	{
