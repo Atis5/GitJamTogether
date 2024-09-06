@@ -81,6 +81,7 @@
     {"id":{"name":"spr_cone","path":"sprites/spr_cone/spr_cone.yy",},},
     {"id":{"name":"spr_controller_background","path":"sprites/spr_controller_background/spr_controller_background.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
+    {"id":{"name":"spr_dumpster","path":"sprites/spr_dumpster/spr_dumpster.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
     {"id":{"name":"spr_gameover_background","path":"sprites/spr_gameover_background/spr_gameover_background.yy",},},
     {"id":{"name":"spr_girl_idle","path":"sprites/spr_girl_idle/spr_girl_idle.yy",},},
@@ -109,8 +110,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room2_1","path":"rooms/Room2_1/Room2_1.yy",},},
     {"roomId":{"name":"Room2_1","path":"rooms/Room2_1/Room2_1.yy",},},
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
