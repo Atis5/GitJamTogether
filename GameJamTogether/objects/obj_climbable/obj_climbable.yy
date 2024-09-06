@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_half_solid",
+  "%Name":"obj_climbable",
   "eventList":[],
   "managed":true,
-  "name":"obj_half_solid",
+  "name":"obj_climbable",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_half_solid",
-    "path":"sprites/spr_half_solid/spr_half_solid.yy",
+    "name":"spr_climbable",
+    "path":"sprites/spr_climbable/spr_climbable.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
