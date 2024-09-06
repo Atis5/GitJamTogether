@@ -82,7 +82,6 @@
     {"id":{"name":"spr_controller_background","path":"sprites/spr_controller_background/spr_controller_background.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_dumpster","path":"sprites/spr_dumpster/spr_dumpster.yy",},},
-    {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
     {"id":{"name":"spr_gameover_background","path":"sprites/spr_gameover_background/spr_gameover_background.yy",},},
     {"id":{"name":"spr_girl_climb","path":"sprites/spr_girl_climb/spr_girl_climb.yy",},},
     {"id":{"name":"spr_girl_idle","path":"sprites/spr_girl_idle/spr_girl_idle.yy",},},
