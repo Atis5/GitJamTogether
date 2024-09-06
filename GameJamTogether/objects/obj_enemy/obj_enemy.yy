@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_girl_running",
-    "path":"sprites/spr_girl_running/spr_girl_running.yy",
+    "name":"spr_girl_run",
+    "path":"sprites/spr_girl_run/spr_girl_run.yy",
   },
   "spriteMaskId":null,
   "visible":true,
